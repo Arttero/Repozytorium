@@ -1,8 +1,7 @@
-#include <stdio.h>
-
 //zad 1
 
 /*
+#include <stdio.h>
 int main() {
 	printf("nk134920");
 
@@ -13,6 +12,7 @@ int main() {
 //zad 2
 
 /*
+#include <stdio.h>
 int main() {
 	int A;
 	printf("Podaj Liczbe : ");
@@ -31,6 +31,7 @@ int main() {
 //zad 3
 
 /*
+#include <stdio.h>
 int main() {
 	double A,B;
 
@@ -52,6 +53,7 @@ int main() {
 //zad 4
 
 /*
+#include <stdio.h>
 int main() {
 	double A,B,C,D,SredniaArytmetyczna;
 
@@ -74,6 +76,7 @@ int main() {
 //zad 5
 
 /*
+#include <stdio.h>
 int main() {
 	double A, B, wynik;
 	char Znak;
