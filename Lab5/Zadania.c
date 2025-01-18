@@ -152,17 +152,3 @@ void runZadanie8()
 		printf("Wynik funkcji (x = %d,n = %d) wynosi: %d", x, n, funkcja8(x, n));
 	}
 }
-
-int funkcja8(int x, int n) {
-	if (n == 1)
-		return x;
-	else {
-		if (n % 3 == 0) {
-			int k = funkcja8(x, n / 3);
-			return k* k* k;
-		}
-		else {
-			return x * funkcja8(x, n - 1);
-		}
-	}
-}
