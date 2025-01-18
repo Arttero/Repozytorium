@@ -13,7 +13,6 @@ void runMain() {
 		printf("4. Zadanie 4\n");
 		printf("5. Zadanie 5\n");
 		printf("6. Zadanie 6\n");
-		printf("7. Zadanie 7\n");
 		printf("8. Zadanie 8\n");
 		printf("0. Wyjscie\n");
 		printf("Wybierz zadanie: ");
