@@ -11,10 +11,10 @@ void runZadanie3()
 	FILE* inputFile, * outputFile;
 
 	printf("Podaj nazwe pliku ktorego chcesz obejrzec:\n");
-	scanf("%s", &nazwaPlikuIN);
+	scanf("%s", &nazwaPlikuIN);// przykladowo test.txt
 
 	printf("Podaj nazwe pliku do ktorego chcesz zapisac %s:\n", nazwaPlikuIN);
-	scanf("%s", &nazwaPlikuOUT);
+	scanf("%s", &nazwaPlikuOUT);//przykladowo test2.txt
 
 	if ((inputFile = fopen(nazwaPlikuIN, "r")) == NULL)
 	{
