@@ -1,0 +1,25 @@
+Bledny format PESEL: 72040163352
+
+Bledny format PESEL: 46020791664
+
+Bledny format PESEL: 93071087527
+
+Bledny format PESEL: 92011957236
+
+Bledny format PESEL: 91031889675
+
+Bledny format PESEL: 58082023664
+
+Bledny format PESEL: 55123056262
+
+Bledny format PESEL: 94080371827
+
+Bledny format PESEL: 88091348655
+
+
+4.1
+Liczba kobiet: 442
+Liczba mezczyzn: 558
+
+4.2
+Liczba osob urodzonych w listopadzie: 90
